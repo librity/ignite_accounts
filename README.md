@@ -56,4 +56,4 @@ $ yarn test
 
 ## Resources <a name = "resources"></a>
 
--
+- https://stackoverflow.com/questions/154059/how-can-i-check-for-an-empty-undefined-null-string-in-javascript
