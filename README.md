@@ -47,6 +47,10 @@ $ yarn test
 
 ## Endpoints <a name = "endpoints"></a>
 
+`Documentation web UI`
+
+- http://localhost:3333/api-docs
+
 `Users`
 
 - `GET` http://localhost:3333/users
@@ -56,4 +60,6 @@ $ yarn test
 
 ## Resources <a name = "resources"></a>
 
+- https://github.com/scottie1984/swagger-ui-express
+- https://swagger.io/specification/
 - https://stackoverflow.com/questions/154059/how-can-i-check-for-an-empty-undefined-null-string-in-javascript
